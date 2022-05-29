@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Asaru7 (Victor M. Lara
+- 👀 I’m interested in WebDev / Linux / Games
+- 🌱 I’m currently learning Vue,React,Backend
+- 💞️ I’m looking to collaborate on projects and gain exp
